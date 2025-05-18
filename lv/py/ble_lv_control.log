@@ -1,2 +1,10 @@
 BLE 广播已启动
+[ControlCmd] 收到 cmd=0x01
+[ControlCmd] 启动温控
+[ControlCmd] 收到 cmd=0x02
+[ControlCmd] 停止温控
+[ControlCmd] 收到 cmd=0x03
+[ControlCmd] 未识别指令: 0x03
+[ControlCmd] 收到 cmd=0x02
+[ControlCmd] 停止温控
 BLE 服务已停止
